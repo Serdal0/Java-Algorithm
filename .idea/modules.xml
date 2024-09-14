@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AranacakSayi/AranacakSayi.iml" filepath="$PROJECT_DIR$/AranacakSayi/AranacakSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArkadasSayi/ArkadasSayi.iml" filepath="$PROJECT_DIR$/ArkadasSayi/ArkadasSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsalCarpanlar/AsalCarpanlar.iml" filepath="$PROJECT_DIR$/AsalCarpanlar/AsalCarpanlar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EbobEkok/EbobEkok.iml" filepath="$PROJECT_DIR$/EbobEkok/EbobEkok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonnaci/Fibonnaci.iml" filepath="$PROJECT_DIR$/Fibonnaci/Fibonnaci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Algorithm.iml" filepath="$PROJECT_DIR$/.idea/Java-Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" filepath="$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PascalUcgeni/PascalUcgeni.iml" filepath="$PROJECT_DIR$/PascalUcgeni/PascalUcgeni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SayiAsalMi/SayiAsalMi.iml" filepath="$PROJECT_DIR$/SayiAsalMi/SayiAsalMi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StandartSapma/StandartSapma.iml" filepath="$PROJECT_DIR$/StandartSapma/StandartSapma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TamBolenler/TamBolenler.iml" filepath="$PROJECT_DIR$/TamBolenler/TamBolenler.iml" />
+    </modules>
+  </component>
+</project>
